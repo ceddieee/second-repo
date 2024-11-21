@@ -2,4 +2,4 @@
 
 ## Introduction
 
-Hi guys! This is my second tryc reating a new repositories.
+Hi guys! This is my second try creating a new repositories.
